@@ -1,0 +1,7 @@
+file = open("write.txt",'w',encoding=('utf-8'))
+file.write('Leon 87\n') 
+file.write('Ben 90\n') 
+file.write('Sam 77\n') 
+file.write('Karen 92\n') 
+file.write('Kelena 92\n') 
+file.close()
